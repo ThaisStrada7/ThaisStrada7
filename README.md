@@ -1,16 +1,19 @@
-### Hi there 👋
+### Boas Vindas ao meu perfil 🤍
 
-<!--
-**ThaisStrada7/ThaisStrada7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Thais 
 
-Here are some ideas to get you started:
+-Estou estudando na Alura 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Sou estudante do 2°B do Colegio Estadual Adonis Morski 
+
+-Tenho 15 anos de idade 
+
+-Estou desenvolvendo programação como HTML e CSS
+
+### Você entrar em contato comigo 📫
+
+Thaisstrada7@gmail.com 
+
+@thais_strada
+
+![](https://media.tenor.com/GTlDCm4P4EsAAAAd/kitty-kitten.gif)
